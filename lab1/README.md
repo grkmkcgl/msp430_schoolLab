@@ -6,4 +6,4 @@
 
 4 – Starting from the address 0x4400, store the numbers 11, 22, 33, 44 to the memory as bytes. Mind the endian ordering.
 
-5 – Continuing from 4, add the numbers stored to the memory and store the result in R6
+5 – Continuing from 4, add the numbers stored to the memory and store the result in R6.
